@@ -9,6 +9,8 @@ public class HashSetDemo {
 		hs.add("Kalpanna");
 		hs.add("Kamini");
 		hs.add("Kanchan");
+		hs.add("komal shrirame");
+		
 	System.out.println(hs);
 	}
 
